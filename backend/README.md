@@ -1,13 +1,2 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+FakeNFTMarketplace deployed to:  0x116ACb9d4E2bB4B222431cd7A3508211Cc091Be6
+CryptoDevsDAO deployed to:  0x450673F68B0f3f208b186a7e668dDBA456ea9c34
